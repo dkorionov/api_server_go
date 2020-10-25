@@ -1,1 +1,1 @@
-# api_server_go
+# Simple rest api server on golang
